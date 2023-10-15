@@ -1,0 +1,16 @@
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\bin\Debug\BinpinarOkulu.exe.config
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\bin\Debug\BinpinarOkulu.exe
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\bin\Debug\BinpinarOkulu.pdb
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.csproj.AssemblyReference.cache
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.Form1.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.Properties.Resources.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.csproj.GenerateResource.cache
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.csproj.CoreCompileInputs.cache
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.exe
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.pdb
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmOgrenciNotlar.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmOgretmen.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmKulup.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmDersler.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmOgrenci.resources
+C:\Users\devra\Desktop\C# Projelerim\BinpinarOkulu\BinpinarOkulu\obj\Debug\BinpinarOkulu.FrmSinavNotlar.resources
